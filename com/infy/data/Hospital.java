@@ -1,2 +1,5 @@
-package com.infy.data;public class Hospital {
+package com.infy.data;
+
+public class Hospital {
+    String name;
 }
