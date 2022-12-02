@@ -4,4 +4,5 @@ public class Doctor {
     String name;
     int age;
     String specialization;
+    String qualification;
 }
